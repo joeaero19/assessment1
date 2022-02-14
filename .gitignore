@@ -5,3 +5,4 @@ __pycache__
 env
 .terra*
 terraform.tfvars
+terraform.tfstate
